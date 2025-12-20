@@ -6,7 +6,6 @@ import HomeScreen from './screens/HomeScreen';
 import AuthScreen from './screens/AuthScreen';
 import ProfileScreen from './screens/ProfileScreen';
 import LoadingSpinner from './components/LoadingSpinner';
-import { TouchableOpacity, Text } from 'react-native';
 
 const Stack = createNativeStackNavigator();
 

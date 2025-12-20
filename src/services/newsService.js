@@ -4,6 +4,8 @@ import axios from 'axios';
  * News Service for fetching positive news articles
  * This is a mock implementation that can be replaced with a real news API
  * such as NewsAPI, GNews API, or a custom backend service
+ * 
+ * Note: axios is imported for future API integration (see fetchPositiveNewsFromAPI example below)
  */
 
 // Mock data for demonstration
